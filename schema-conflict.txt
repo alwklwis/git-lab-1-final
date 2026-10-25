@@ -1,1 +1,1 @@
-operation=master-C3
+operation=resolved-master-and-test
